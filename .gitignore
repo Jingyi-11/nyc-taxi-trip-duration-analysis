@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw data is intentionally excluded from the portfolio repository.
+*.parquet
+*.csv.gz
+*.zip
+
+# Large media and generated artifacts.
+*.mov
+*.mp4
+*.pdf
+*.pptx
+*.docx
+
